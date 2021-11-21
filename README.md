@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ihekwaba Chukwuebuka</h1>
-<h3 align="center">A self-taught mobile developer who loves to build for Android. Here lies the code that will dominate the world! (Evil laugh)</h3>
+<h1>Hi 👋, I'm Ihekwaba Chukwuebuka</h1>
+<h3>A self-taught mobile developer who loves to build for Android. Here lies the code that will dominate the world! (Evil laugh)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quabiee07&label=Profile%20views&color=0e75b6&style=flat" alt="quabiee07" /> </p>
 
