@@ -7,7 +7,7 @@ A self-taught mobile developer who loves to build for the Android platform. I'm 
 
 - 🌱 I’m currently learning **Flutter and Dart**
 
-- 👯 I’m looking to collaborate on **Android and Flutter**
+- 👯 I’m looking to collaborate on **Android and Flutter projects**
 
 - 📫 How to reach me **ebuka@xanocore.com**
 
