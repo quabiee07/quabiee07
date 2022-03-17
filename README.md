@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Ihekwaba Chukwuebuka</h1>
-A self-taught mobile developer who loves to build for the Android platform. I'm enthusiastic about AI, NFTs and Blockchain. Here lies the code that will dominate the world! (Evil laugh)
+A self-taught mobile developer who loves translating code into user-friendly applications. Here lies the code that will dominate the world! (Evil laugh)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quabiee07&label=Profile%20views&color=0e75b6&style=flat" alt="quabiee07" /> </p>
 
