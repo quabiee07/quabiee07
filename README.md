@@ -1,9 +1,8 @@
-<h1>Hi 👋, I'm Ihekwaba Chukwuebuka</h1>
-A self-taught mobile developer who loves translating code into user-friendly applications. Here lies the code that will dominate the world! (Evil laugh)
+<h1>Hi there👋, I'm Ebuka</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quabiee07&label=Profile%20views&color=0e75b6&style=flat" alt="quabiee07" /> </p>
 
-- 🔭 I’m currently working on [Ava](https://github.com/smartPYJ/uical-avabot)
+- 🔭 I’m currently working on Flutter Projects
 
 - 🌱 I’m currently learning **Flutter and Dart**
 
