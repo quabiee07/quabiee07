@@ -6,7 +6,7 @@ Hey there, wanderer! Welcome to my little corner of the coding realm. I’m all 
 - 🔭 Currently brewing up awesome stuff in Flutter.
 - 🌱 Learning the art of Flutter and Dart mastery.
 - 👯 Seeking fellow wizards for epic Flutter quests.
-- 📫 Ping me at **buskykwabiee@gmail.com** for a coding rendezvous!
+- 📫 Ping me at **kingsleyihekwaba208@gmail.com** for a coding rendezvous!
 
 ## Find Me in the Wild
 - Twitter: [Catch me on the twittersphere!](https://twitter.com/kwabiee011)
