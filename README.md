@@ -4,7 +4,7 @@ Alright, so you've landed on my GitHub! I'm all about diving into Flutter and Da
 
 ## 📌 Quick Overview
 
-* 🔭 I’m currently working on **["QUEEK", ]** and exploring advanced Flutter animations.
+* 🔭 I’m currently working on **["QUEEK", an app for students within a campus, enabling peer-to-peer service exchange.]** and exploring advanced Flutter animations.
 * 🌱 I’m continuously learning and refining my skills in Flutter, Dart, state management (e.g., Riverpod, BLoC & Provider -which is my fave cause of it's simplicity) and clean architecture.
 * 👯 I’m looking to collaborate on innovative and impactful Flutter projects. If you have an idea, let's chat!
 * 💬 Ask me about anything Flutter, Dart, or mobile development related!
